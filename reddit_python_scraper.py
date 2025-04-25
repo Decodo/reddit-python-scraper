@@ -2,7 +2,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://scrape.smartproxy.com/v1/tasks"
+url = "https://scrape.decodo.com/v1/tasks"
 
 payload = {
     "target": "universal",
